@@ -22,7 +22,7 @@
         <dependency>
             <groupId>io.openscore.lang</groupId>
             <artifactId>score-lang-api</artifactId>
-            <version>0.1.5</version>
+            <version>0.1.8</version>
         </dependency>
 
         <dependency>
